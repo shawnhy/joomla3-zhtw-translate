@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="3.3" client="administrator">
+<metafile version="3.4" client="administrator">
 	<name>中文(繁體．台灣)</name>
-	<version>3.3.6.1</version>
-	<creationDate>2014-10-12</creationDate>
+	<version>3.4.0.1</version>
+	<creationDate>2015-3-9</creationDate>
 	<author>Joomla! Taiwan User Community</author>
-	<authorEmail>eddy@joomla.org.tw</authorEmail>
+	<authorEmail>eddy@joomla.com.tw</authorEmail>
 	<authorUrl>www.joomla.org.tw</authorUrl>
 	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
