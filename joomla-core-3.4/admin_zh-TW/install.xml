@@ -2,8 +2,8 @@
 <extension version="3.4" client="administrator" type="language" method="upgrade">
 	<name>中文(繁體．台灣)</name>
 	<tag>zh-TW</tag>
-	<version>3.4.0.1</version>
-	<creationDate>2015-3-9</creationDate>
+	<version>3.4.1.1</version>
+	<creationDate>2015-3-23</creationDate>
 	<author>Joomla! Taiwan User Community</author>
 	<authorEmail>eddy@joomla.org.tw</authorEmail>
 	<authorUrl>www.joomla.com.tw</authorUrl>
