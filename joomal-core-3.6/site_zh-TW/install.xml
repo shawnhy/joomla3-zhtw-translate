@@ -2,8 +2,8 @@
 <extension version="3.6" client="site" type="language" method="upgrade">
 	<name>中文(繁體．台灣)</name>
 	<tag>zh-TW</tag>
-	<version></version>
-	<creationDate></creationDate>
+	<version>3.6.0.1</version>
+	<creationDate>2016-07-26</creationDate>
 	<author>Joomla! Taiwan User Community</author>
 	<authorEmail>eddy@joomla.com.tw</authorEmail>
 	<authorUrl>www.joomla.org.tw</authorUrl>
@@ -94,7 +94,7 @@
 		<filename>zh-TW.tpl_protostar.ini</filename>
 		<filename>zh-TW.tpl_protostar.sys.ini</filename>
 		<filename file="meta">install.xml</filename>
-		<filename file="meta">en-GB.xml</filename>
+		<filename file="meta">zh-TW.xml</filename>
 	</files>
 	<params />
 </extension>
