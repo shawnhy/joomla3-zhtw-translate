@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.6" method="upgrade">
+  <name>中文(繁體．台灣) 完整語言包</name>
+  <packagename>zh-TW</packagename>
+  <version>3.6.0.1</version>
+  <creationDate>July 2016</creationDate>
+  <author>Joomla! Taiwan User Community</author>
+  <authorEmail>eddy@joomla.com.tw</authorEmail>
+  <authorUrl>www.joomla.org.tw</authorUrl>
+  <description>zh-TW language pack</description>
+  <files>
+    <folder type="language" client="site" id="zh-TW">site_zh-TW</folder>
+    <folder type="language" client="administrator" id="zh-TW">admin_zh-TW</folder>
+  </files>
+  <updateservers>
+    <server type="collection" priority="1" name="Accredited Joomla! Translations">https://update.joomla.org/language/translationlist_3.xml</server>
+  </updateservers>
+</extension>
