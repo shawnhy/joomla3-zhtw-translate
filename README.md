@@ -3,6 +3,9 @@ joomla3-zhtw-translate
 
 Traditional Chinese(zh-TW) language translation for Joomla! 3
 
+## 下載處
+
+本繁體中文語言包為Joomla! 官方認可語言: [官方語言包下載站](http://joomlacode.org/gf/project/jtranslation3_x/frs/?action=FrsReleaseBrowse&frs_package_id=6404)
 
 ## 修改日誌 3.6.0v1
 
