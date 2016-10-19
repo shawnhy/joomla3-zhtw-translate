@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.6" client="administrator" type="language" method="upgrade">
-	<name>中文(繁體)</name>
+  <name>中文(繁體)</name>
   <tag>zh-TW</tag>
-	<version>3.6.2.1</version>
-	<creationDate>2016-08-17</creationDate>
-	<author>Joomla! Taiwan User Community</author>
-	<authorEmail>eddy@joomla.com.tw</authorEmail>
-	<authorUrl>www.joomla.org.tw</authorUrl>
-	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description>Traditional Chinese administrator language</description>
-	<files>
-				<filename>zh-TW.com_admin.ini</filename>
+  <version>3.6.3.1</version>
+  <creationDate>2016-10-19</creationDate>
+  <author>Joomla! Taiwan User Community</author>
+  <authorEmail>eddy@joomla.com.tw</authorEmail>
+  <authorUrl>www.joomla.org.tw</authorUrl>
+  <copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
+  <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+  <description>Traditional Chinese administrator language</description>
+  <files>
+        <filename>zh-TW.com_admin.ini</filename>
         <filename>zh-TW.com_admin.sys.ini</filename>
         <filename>zh-TW.com_ajax.ini</filename>
         <filename>zh-TW.com_ajax.sys.ini</filename>
@@ -227,6 +227,6 @@
         <filename>zh-TW.tpl_isis.sys.ini</filename>
         <filename file="meta">zh-TW.xml</filename>
         <filename file="meta">install.xml</filename>
-	</files>
-	<params />
+  </files>
+  <params />
 </extension>
