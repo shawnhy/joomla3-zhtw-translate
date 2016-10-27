@@ -2,8 +2,8 @@
 <extension type="package" version="3.5" method="upgrade">
   <name>中文(繁體．台灣)完整語言包</name>
   <packagename>zh-TW</packagename>
-  <version>3.6.2.1</version>
-  <creationDate>2016-08-17</creationDate>
+  <version>3.6.3.1</version>
+  <creationDate>2016-10-19</creationDate>
   <author>Joomla! Taiwan User Community</author>
   <authorEmail>eddy@joomla.com.tw</authorEmail>
   <authorUrl>www.joomla.org.tw</authorUrl>
@@ -12,8 +12,8 @@
    <url></url>
   <description>
       <![CDATA[
-      <h3>Joomla! v3.6.2.1 中文(繁體．台灣)完整語言包</h3>
-      <h3>Joomla! v3.6.2.1 Traditional Chinese (Taiwan) Language Package</h3>
+      <h3>Joomla! v3.6.3.1 中文(繁體．台灣)完整語言包</h3>
+      <h3>Joomla! v3.6.3.1 Traditional Chinese (Taiwan) Language Package</h3>
       ]]>
    </description>
   <files>
