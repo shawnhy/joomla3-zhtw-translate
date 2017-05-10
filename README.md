@@ -1,7 +1,15 @@
 joomla3-zhtw-translate
 ======================
 
-Traditional Chinese(zh-TW) language translation for Joomla! 3
+Chinese Traditional(zh-TW) language translation for Joomla! 3.x
+
+注意: 
+
+- 官方的翻譯網站在: https://crowdin.com/project/joomla-cms/zh-TW#
+- 官方的語言下載站(對照管理區直接安裝/更新的路徑)在: http://joomlacode.org/gf/project/jtranslation3_x/frs/?action=FrsReleaseBrowse&frs_package_id=6404
+- 只有在大幅度改版時才會先到crowdin中翻譯字詞，但最後調整仍然是以本github庫為準。
+- 有任何翻譯問題請發至issue中
+
 
 ## 下載處
 
