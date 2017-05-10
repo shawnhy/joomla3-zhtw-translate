@@ -7,6 +7,13 @@ Traditional Chinese(zh-TW) language translation for Joomla! 3
 
 本繁體中文語言包為Joomla! 官方認可語言: [官方語言包下載站](http://joomlacode.org/gf/project/jtranslation3_x/frs/?action=FrsReleaseBrowse&frs_package_id=6404)
 
+## 修改日誌 3.7.0v2
+
+=== 170508 發佈 3.6.0v2 ===
+
+- 修正issue #8/#9 中問題
+- 調整部份不明確字詞
+
 ## 修改日誌 3.6.0v1
 
 === 160729 發佈 3.6.0v1 ===
