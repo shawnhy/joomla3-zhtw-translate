@@ -2,7 +2,7 @@
 <extension type="package" version="3.7" method="upgrade">
 	<name>Chinese (Traditional) Language Pack</name>
 	<packagename>zh-TW</packagename>
-	<version>3.7.0.2</version>
+	<version>3.7.2.1</version>
 	<creationDate>May 2017</creationDate>
 	<author>Joomla! Taiwan User Community</author>
 	<authorEmail>eddy@joomla.com.tw</authorEmail>
@@ -13,7 +13,7 @@
 	<packager>Joomla! Project</packager>
 	<packagerurl>www.joomla.org</packagerurl>
 	<description>
-      <![CDATA[Joomla! v3.7.0.2 Traditional Chinese (Taiwan) Language Package]]>
+      <![CDATA[Joomla! v3.7.2.1 Traditional Chinese (Taiwan) Language Package]]>
    </description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>

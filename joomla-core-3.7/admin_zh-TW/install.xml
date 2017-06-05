@@ -2,7 +2,7 @@
 <extension version="3.7" client="administrator" type="language" method="upgrade">
 	<name>Chinese (Traditional)</name>
 	<tag>zh-TW</tag>
-	<version>3.7.0.2</version>
+	<version>3.7.2.1</version>
 	<creationDate>May 2017</creationDate>
 	<author>Joomla! Taiwan User Community</author>
 	<authorEmail>eddy@joomla.com.tw</authorEmail>
