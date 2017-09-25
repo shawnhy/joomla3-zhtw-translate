@@ -3,7 +3,7 @@ joomla3-zhtw-translate
 
 Chinese Traditional(zh-TW) language translation for Joomla! 3.x
 
-注意: 
+注意:
 
 - 官方的翻譯網站在: https://crowdin.com/project/joomla-cms/zh-TW#
 - 官方的語言下載站(對照管理區直接安裝/更新的路徑)在: http://joomlacode.org/gf/project/jtranslation3_x/frs/?action=FrsReleaseBrowse&frs_package_id=6404
@@ -14,6 +14,12 @@ Chinese Traditional(zh-TW) language translation for Joomla! 3.x
 ## 下載處
 
 本繁體中文語言包為Joomla! 官方認可語言: [官方語言包下載站](http://joomlacode.org/gf/project/jtranslation3_x/frs/?action=FrsReleaseBrowse&frs_package_id=6404)
+
+## 修改日誌 3.7.5v1
+
+=== 170925 ===
+
+- 更新到3.7.5，待測試
 
 ## 修改日誌 3.7.0v2
 
@@ -64,5 +70,3 @@ Chinese Traditional(zh-TW) language translation for Joomla! 3.x
 - 更改登入名稱 -> 允許更改登入名稱
 - 自定義 -> 自訂
 - module 自定義 -> 自訂HTML
-
-
