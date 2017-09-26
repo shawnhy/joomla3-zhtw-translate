@@ -19,6 +19,7 @@ Chinese Traditional(zh-TW) language translation for Joomla! 3.x
 
 === 170926 ===
 
+- 更新到 3.8.0，待測試
 
 ## 修改日誌 3.7.5v1
 
