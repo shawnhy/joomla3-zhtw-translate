@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile
+	version="3.8"
+	client="installation">
+	<name>Chinese Traditional</name>
+	<version>3.7.0.1</version>
+	<creationDate>April 2017</creationDate>
+	<author>Joomla! Taiwan User Community</author>
+	<copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<files>
+		<filename>zh-TW.ini</filename>
+	</files>
+	<metadata>
+		<name>中文(繁體．台灣)</name>
+		<nativeName></nativeName>
+		<tag>zh-TW</tag>
+		<rtl>0</rtl>
+	</metadata>
+	<params />
+</metafile>
